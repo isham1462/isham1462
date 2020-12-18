@@ -1,5 +1,5 @@
 exports.help = (id, A187, tanggal, instagram, nomer, whatsapp, youtube) => {
-	return `👾𝗔𝗥𝟭𝟱𝗕𝗢𝗧👾
+	return `👾ISHAM1462👾
 	
 ❉──────────❉
 
@@ -116,7 +116,7 @@ exports.help = (id, A187, tanggal, instagram, nomer, whatsapp, youtube) => {
 ┃➥ *𝑴𝒂𝒔𝒖𝒌 𝒔𝒊𝒏𝒊😙*
 ┃ _${whatsapp}_
 ┃➥ *𝒀𝒐𝒖𝑻𝒖𝒃𝒆 𝒎𝒊𝒎𝒊𝒏*
-┃ _${youtube}_
+┃ _${https://youtube.com/channel/UCfASwZqm5feLgpzAOrp9VoQ }_
 ┃➥ *𝑰𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎 <𝑭𝒐𝒍𝒍𝒐𝒘>*
 ┃ _${instagram}_
 ┃➥ *𝑪𝒓𝒆𝒂𝒕𝒐𝒓 ${A187}*
@@ -130,6 +130,6 @@ exports.help = (id, A187, tanggal, instagram, nomer, whatsapp, youtube) => {
 ┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
 ┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱
 ┣━━━━━━━━━━━━━━━━━━━━
-┃ 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗔𝗥𝗜𝗦𝟭𝟴𝟳 𝗜𝗗
+┃ 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 ISHAM1462𝗜𝗗
 ┗━━━━━━━━━━━━━━━━━━━━`
 }
